@@ -7,7 +7,20 @@
 		<key>SnapshotTesting.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>3</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>BF60024B201856E100810F38</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>BF60025F201856E200810F38</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
